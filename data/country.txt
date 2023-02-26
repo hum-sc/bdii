@@ -1,0 +1,25 @@
+AR,Argentina,4
+AU,Australia,5
+BE,Belgium,1
+BR,Brazil,4
+CA,Canada,4
+CH,Switzerland,1
+CN,China,3
+DE,Germany,1
+DK,Denmark,1
+EG,Egypt,2
+FR,France,1
+IL,Israel,3
+IN,India ,3
+IT,Italy,1
+JP,Japan,3
+KW,Kuwait,2
+ML,Malaysia,3
+MX,Mexico,4
+NG,Nigeria,2
+NL,Netherlands,1
+SG,Singapore,3
+UK,United Kingdom,1
+US,United States of America,4
+ZM,Zambia,2
+ZW,Zimbabwe,2
